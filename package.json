@@ -1,0 +1,21 @@
+{
+  "name": "my-awesome-project",
+  "version": "1.0.0",
+  "description": "Halloween themed massage shop website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000",
+    "lint": "echo \"No linter configured\"",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "keywords": [
+    "halloween",
+    "massage",
+    "website",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
